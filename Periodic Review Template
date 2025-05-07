@@ -1,0 +1,52 @@
+# Lightweight App Development Review Template
+
+> This streamlined review template focuses on the essential aspects to check during app development. Use it after completing significant portions of work or before moving to the next development phase.
+
+## Requirements Check
+
+- Are we building what was originally planned?
+- Have we added anything unnecessary?
+- Are we missing any critical features?
+- Does the current implementation solve the core problem?
+
+## Code Quality
+
+- Is the code organized logically?
+- Is there duplicate or unnecessary code that should be removed?
+- Are there performance issues that need addressing?
+- What technical debt should we prioritize fixing?
+
+## Security Essentials
+
+- [ ] User inputs are properly validated
+- [ ] Authentication/authorization works correctly
+- [ ] Sensitive data is protected
+- [ ] Error handling doesn't expose sensitive information
+- [ ] Dependencies are up-to-date and secure
+
+## User Experience
+
+- Is the app intuitive to use?
+- Are there friction points in the user journey?
+- Is error handling user-friendly?
+- Does the app meet accessibility needs?
+
+## Feedback Tracking
+
+- What key feedback have we received?
+- What patterns are emerging from the feedback?
+- What feedback items should be prioritized?
+
+## Next Steps
+
+1. [Highest priority item to address]
+2. [Second priority item]
+3. [Third priority item]
+
+## Lessons Learned
+
+- [Key insight from this development phase]
+- [Technical or process improvement identified]
+- [Successful approach to continue using]
+
+Next review scheduled for: [Date/Milestone]
